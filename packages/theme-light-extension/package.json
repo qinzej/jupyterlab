@@ -46,5 +46,6 @@
   "jupyterlab": {
     "extension": true,
     "themePath": "style/index.css"
-  }
+  },
+  "gitHead": "ad336072855c1dc5eb3fa814f5953525e2bab13b"
 }
